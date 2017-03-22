@@ -1,3 +1,7 @@
 /nodemodules
 
 /bower-components
+
+.exe
+
+/cache
